@@ -23,7 +23,7 @@ Seqaya is an **intelligent plant care automation system** I developed as a full-
 
 ### My Role
 
-**Full-Stack IoT Developer** | *Solo Project (6+ months)*
+**Founder | Full-Stack IoT Developer**
 
 - Architected and developed complete end-to-end system
 - Implemented Android application with offline-first architecture
